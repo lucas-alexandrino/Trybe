@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8">
+    <title>HTML</title>
+  </head>
+  <body>
+    <h1>Exercícios</h1>
+    
+
+    <ul>
+      <li>Maria</li>
+      <li>Joao 2</li>
+      <li>Vitor 3</li>
+      <li>Larissa 4</li>
+      <li>Matheus 5</li>
+    </ul>
+
+    
+    <img src="https://www.google.com/search?client=ubuntu&channel=fs&q=imagem+cat&tbm=isch&source=univ&fir=HRi-gRzig3M9CM%252CIGQheeFCu5xawM%252C_%253BVMrF9wE3sqEjqM%252CMZzcfBnXiFl9bM%252C_%253BaEL-JLeBeWZZgM%252Czf__aSM2cIFgIM%252C_%253BpF9jY4FsJANjUM%252Czf__aSM2cIFgIM%252C_%253BBGtPnxVlAgpdmM%252CfWOV8RkCFIbkFM%252C_%253Bj23leGmyRalHDM%252CMZzcfBnXiFl9bM%252C_%253BhJSR6MZPfwatNM%252Czf__aSM2cIFgIM%252C_%253BzDyuHXH6ZSd3_M%252CmtpDmojUA5dTAM%252C_%253Baah5hG3hI8BfDM%252CmtpDmojUA5dTAM%252C_%253BnPrp7w2hGAJhtM%252CMZzcfBnXiFl9bM%252C_%253Br1blgEa3UiJfQM%252Czf__aSM2cIFgIM%252C_%253BBTSNQBA2BeOcoM%252CvswNm4gAscWLkM%252C_%253BXjPRtgr5l94ToM%252CO8HC1oAKGLNgrM%252C_&usg=AI4_-kTNPHH6ed0y-0ARVIgX27dNhNw9Xw&sa=X&ved=2ahUKEwiIj7CXr9H8AhUqqpUCHa8iAc4QjJkEegQICBAC&biw=730&bih=488&dpr=1#imgrc=HRi-gRzig3M9CM" alt="Imagem Externa">
+
+    
+    <img src="imagem_local.jpg" alt="Imagem local">
+  </body>
+</html> 
