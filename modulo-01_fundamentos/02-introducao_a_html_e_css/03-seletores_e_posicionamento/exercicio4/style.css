@@ -1,0 +1,46 @@
+/* Estilize as divs para que, ao passar o cursor por cima das mesmas,
+elas ganhem uma borda. */
+div:hover {
+    border: 10px solid black;
+  }
+  /* Faça cada div ter uma cor própria. */
+  div:nth-of-type(1) {
+    background-color: rgb(0, 204, 255);
+  }
+  div:nth-of-type(2) {
+    background-color: rgb(61, 202, 61);
+  }
+  div:nth-of-type(3) {
+    background-color: rgb(226, 9, 9);
+  }
+  div:nth-of-type(4) {
+    background-color: rgb(11, 252, 252);
+  }
+  div:nth-of-type(5) {
+    background-color: rgb(247, 20, 179);
+  }
+
+  div:nth-of-type(1) > h3 {
+    color: rgb(243, 7, 7);
+  }
+  div:nth-of-type(2) > h3 {
+    color: green 
+  }
+  div:nth-of-type(3) > h3 {
+    font-size: 30px;
+  }
+  div:nth-of-type(4) > h3 {
+    font-style: italic;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  div:nth-of-type(5) > h3 {
+    font-style: initial
+  }
+
+  div:nth-of-type(3) {
+    height: 200px;
+  }
+
+  div:nth-child(odd) h3 {
+    font-style: italic
+  }
