@@ -1,0 +1,13 @@
+h1, p {
+    text-align: center;
+  }
+  ul:hover, ol:hover {
+    background-color: rgb(0, 89, 255);
+  }
+  li:active {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+  }
+
+  li {
+    list-style: none;
+  }
